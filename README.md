@@ -7,6 +7,9 @@
  - Aprender Infraestrutura ( Amazon EC2 E Amazon S3)
  - Configurar NGINX ( Revese-Proxy )
  - Aprender Redis ou Memcached
+ - Docker c/ NodeJS
+ - Meteor c/ React
+ - Programação Funcional com Javascript
  - Swift
 
 # Cursos a fazer :zap:
